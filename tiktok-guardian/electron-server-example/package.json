@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-guardian-server-example",
+  "version": "1.0.0",
+  "description": "Standalone example of the Electron-side WebSocket server for TikTok Tab Guardian",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

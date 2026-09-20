@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles/notification.css" />
+  <title>Electron App</title>
+</head>
+
+<body>
+  <!-- Custom Popup Banner -->
+  <div id="top-notification" class="notification-banner">
+    <img id="notification-photo" class="notification-photo" alt="" />
+    <div id="notification-screentime" class="screen-time-badge"></div>
+    <div class="notification-bubble">
+      <button id="notification-close" class="close-btn" aria-label="Close">&times;</button>
+      <span id="notification-caption" class="notification-caption"></span>
+      <button id="notification-dnd" class="dnd-btn">Don't disturb me again</button>
+    </div>
+  </div>
+
+
+  <script type="module" src="renderer.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "Base template for Electron desktop apps",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^44.2.0"
+  },
+  "dependencies": {
+    "active-win": "^8.2.1",
+    "ws": "^8.21.3"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "begging": {
+    "id": "begging",
+    "src": "images/Cat Begging.png",
+    "caption": "Please, just five more minutes..."
+  },
+  "crying": {
+    "id": "crying",
+    "src": "images/Cat Crying.png",
+    "caption": "I can't believe you're still scrolling."
+  },
+  "eyesWideOpen": {
+    "id": "eyesWideOpen",
+    "src": "images/Cat Eyes Wide Open.png",
+    "caption": "Wait, how long have you been on there?!"
+  },
+  "frownAndSweat": {
+    "id": "frownAndSweat",
+    "src": "images/Cat Frown and Sweat.png",
+    "caption": "This isn't looking good for you..."
+  },
+  "happy": {
+    "id": "happy",
+    "src": "images/Cat Happy.png",
+    "caption": "Look at you, staying focused!"
+  },
+  "shocked": {
+    "id": "shocked",
+    "src": "images/Cat Shocked.png",
+    "caption": "You have been on TikTok for more than 3s!"
+  },
+  "stickingOutTongue": {
+    "id": "stickingOutTongue",
+    "src": "images/Cat Show Sticking Out Tongue.png",
+    "caption": "Caught you again, silly!"
+  },
+  "showingAss": {
+    "id": "showingAss",
+    "src": "images/Cat Showing Ass.png",
+    "caption": "That's what I think of this scrolling habit."
+  },
+  "unhinged": {
+    "id": "unhinged",
+    "src": "images/Cat Unhinged.png",
+    "caption": "Okay this is getting out of hand."
+  }
+}
